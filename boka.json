@@ -1,0 +1,37 @@
+{
+  "ok":true,
+  "result":
+    [
+      {
+        "update_id":390277835,
+        "message":
+          {
+            "message_id":27,
+            "from":
+              {
+                "id":1298877464,
+                "is_bot":false,
+                "first_name":"\u042f\u0440\u0438\u043a",
+                "username":"Shternritter",
+                "language_code":"ru"
+              },
+            "chat":
+              {
+                "id":1298877464,
+                "first_name":"\u042f\u0440\u0438\u043a",
+                "username":"Shternritter",
+                "type":"private"
+              },
+            "date":1658724251,
+            "text":"YAAAAAAAAAAAAAAAAAAAAaa"
+          }
+      },
+            {"update_id":390277836,
+"message":{"message+_id":32,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745025,"text":"bl, ['fxgks'"}},{"update_id":390277837,
+"message":{"message_id":33,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745026,"text":"lg]sldfp;;"}},{"update_id":390277838,
+"message":{"message_id":34,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745026,"text":"gls"}},{"update_id":390277839,
+"message":{"message_id":35,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745027,"text":"g;lslgkd"}},{"update_id":390277840,
+"message":{"message_id":36,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745028,"text":"gljdsfhgldsh"}},{"update_id":390277841,
+"message":{"message_id":37,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745028,"text":"gdfsljhgik;jl"}},{"update_id":390277842,
+"message":{"message_id":38,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745029,"text":"gsalj;hgjlgdfhjldsf"}},{"update_id":390277843,
+"message":{"message_id":39,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745030,"text":"kjhgdsfjgsdhsuoert"}}]}
