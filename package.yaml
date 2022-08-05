@@ -23,7 +23,6 @@ dependencies:
 - base >= 4.7 && < 5
 - bytestring
 - http-conduit
-- utf8-string
 - aeson
 
 library:

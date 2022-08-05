@@ -18,3 +18,16 @@ parseToken s = go s []
       if x == '='
         then (reverse acc, xs)
         else go xs (x:acc)
+
+findKey :: (Eq k) => k -> [(k, v)] -> Maybe v
+findKey key [] = Nothing
+findKey key ((k,v):xs)
+  | key == k = Just v
+  | otherwise = findKey key xs
+
+deleteFromList :: (Eq a) => a -> [a] -> [a] -> [a]
+deleteFromList _ [] acc = acc
+deleteFromList x (y:ys) acc =
+  if x == y
+    then acc ++ ys
+    else deleteFromList x ys (y:acc)

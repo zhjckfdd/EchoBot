@@ -3,10 +3,10 @@
   "result":
     [
       {
-        "update_id":390277835,
+        "update_id":390277983,
         "message":
           {
-            "message_id":27,
+            "message_id":289,
             "from":
               {
                 "id":1298877464,
@@ -22,16 +22,32 @@
                 "username":"Shternritter",
                 "type":"private"
               },
-            "date":1658724251,
-            "text":"YAAAAAAAAAAAAAAAAAAAAaa"
+            "date":1659509913,
+            "sticker":
+              {
+                "width":512,
+                "height":512,
+                "emoji":"\ud83d\ude2d",
+                "set_name":"MemesHeroes3",
+                "is_animated":false,
+                "is_video":false,
+                "type":"regular",
+                "is_premium":false,
+                "thumb":
+                  {
+                    "file_id":"AAMCAgADGQEAAgEhYuocmWxPbjW-oRISmldAE0BV2pkAAq4VAAKomkFIZDm6vKD0DOoBAAdtAAMpBA",
+                    "file_unique_id":"AQADrhUAAqiaQUhy",
+                    "file_size":24514,
+                    "width":320,
+                    "height":320
+                  },
+                "file_id":"CAACAgIAAxkBAAIBIWLqHJlsT241vqESEppXQBNAVdqZAAKuFQACqJpBSGQ5uryg9AzqKQQ",
+                "file_unique_id":"AgADrhUAAqiaQUg",
+                "file_size":44800
+              }
           }
-      },
-            {"update_id":390277836,
-"message":{"message+_id":32,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745025,"text":"bl, ['fxgks'"}},{"update_id":390277837,
-"message":{"message_id":33,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745026,"text":"lg]sldfp;;"}},{"update_id":390277838,
-"message":{"message_id":34,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745026,"text":"gls"}},{"update_id":390277839,
-"message":{"message_id":35,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745027,"text":"g;lslgkd"}},{"update_id":390277840,
-"message":{"message_id":36,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745028,"text":"gljdsfhgldsh"}},{"update_id":390277841,
-"message":{"message_id":37,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745028,"text":"gdfsljhgik;jl"}},{"update_id":390277842,
-"message":{"message_id":38,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745029,"text":"gsalj;hgjlgdfhjldsf"}},{"update_id":390277843,
-"message":{"message_id":39,"from":{"id":1298877464,"is_bot":false,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","language_code":"ru"},"chat":{"id":1298877464,"first_name":"\u042f\u0440\u0438\u043a","username":"Shternritter","type":"private"},"date":1658745030,"text":"kjhgdsfjgsdhsuoert"}}]}
+      }
+    ]
+}
+
+ 
